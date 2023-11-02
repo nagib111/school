@@ -1,0 +1,17 @@
+.pillow1{
+ display: flex;
+}
+.pic{
+    height: 200px; width: 200px; padding: 40px; border: 2px solid black;
+}
+
+.leftpic{
+    border: 2px solid; color: black;
+}
+.pic2{
+    height: 200px; width: 200px; padding: 10px; border:10px solid blueviolet;
+}
+.lastpic{
+    display:  flex; gap: 40px
+;
+}
